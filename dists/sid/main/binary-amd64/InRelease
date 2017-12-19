@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Archive: unstable
+Component: main
+Origin: devotees
+Label: devotees Github
+Architecture: amd64
+Description: Debian visidata packages
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCAAGBQJaOIZrAAoJEByrmtmXXgr6Se4P/iRvafAyKeTdj3aax0b3sS8q
+KM1TxuBTFcKukbLDIVOO5CltCx5gu9n1ftaJ3YiVLN5XPaEpe6yL3TDiuupuyF/+
+RHQXgrh3e9hndcT1XNubGeTybjbNyVcbFgQXMd0o8gpPrYBd5ylvnGjgRJYNW7di
+/ZAdgB5ep98QyIe/wbObKALO2QTVGpWf1zz28y0S6lhnrOkEHmehN804XE7E7gR+
+mv+8RVLKYOow7TR9EJEJOZC4p7PgLIrDiY1W350/CETTc4hskYZk3p4g0NCN2Eto
+nFsOPgrjwIoBdzQFKrTFMeHQKyBqhVfAp6huZ+e24An5IllkG5CJVRQZxFEs3RBV
+gXM3FWwyWYBb457e3ID2BLwLkEptRhulYR1uJOJjPF4U4M65Y06fcto2BLivvL5A
+t2WX5pIfgfw47BS6SIlAPnn1otsIi3z4tk0wsrIXcUwx7rQV8VQgmkzIE6bR4fbZ
+KW0mTZsOhJG10L6mG0hOOv1c4BSaaTwuIpnvi68eNxNgFaphjpM0AfFMetZFIHmh
+zTtGF69OpgkIgRwvYhpufIuE9EE+FrscX0x607qul0phe+2vQjPie4lHFe4YPuwU
+gkBvrHdFL19YqnMcwvd7pTuKfHGjqDP1K5nrpKK3S6L+NVOS4/WZZRF5BKMjEr7G
++QaX51JWK1FSkFqohMAK
+=oMvb
+-----END PGP SIGNATURE-----

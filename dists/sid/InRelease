@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: devotees
+Label: devotees Github
+Suite: unstable
+Codename: sid
+Date: Tue, 19 Dec 2017 02:53:55 UTC
+Architectures: amd64
+Components: main
+Description: Debian visidata packages
+MD5Sum:
+ 65041209d08881f88e2af3b98ca29415 644 main/binary-amd64/Packages
+ a68a0c7045c0c3c192f49cb335737d61 456 main/binary-amd64/Packages.gz
+ cb8710948204526c418cce574a232146 132 main/binary-amd64/Release
+SHA1:
+ f8e004032ba025db353961b43357af84c5a3f6d1 644 main/binary-amd64/Packages
+ c2a90a0bf7215398609961121c04740d6c45605a 456 main/binary-amd64/Packages.gz
+ 461502d2a3e5d75f275b06c8141b27d3ff784927 132 main/binary-amd64/Release
+SHA256:
+ 2cf8e103c1d461ebfac1679c6165343fe77ddb542f559c587b096fdbcdcc547d 644 main/binary-amd64/Packages
+ 99d8e77a6c59514ef8023fb9bf6926912429a57c62d6445d0d8bdf68470025e6 456 main/binary-amd64/Packages.gz
+ 1592b12fec6a0047efddcbad5c0f267d8f76857c2d19247efc199331cc7383d5 132 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCAAGBQJaOIY/AAoJEByrmtmXXgr6YHAP/Rz/oHuSuehs88NL28q0bDpR
+d0suzbOAj518hoEkt/NZzYHDAG5arVs3G9guiQAaCTV3GEROLuAiRRg2tSSM4iaZ
+6W8IhZdSdWHHNZiL0Onf7SKipGD+Vd6bAEPCDNfWk7dlvhfAhb0TwHNRdx29+y1L
+Z0JMYCrtYKxCefSF7mlcf0FmWUi7G7xBR1G2Sa64zduzEyydUw4Y0dzxiQmsJ7Hd
+7wwN8CF/d7GvwzufcCO/LjHfRsUpJZIyHLYH6MoOatBJOPdtsmUSoc6OstZxzBZv
+S48fHH/RCbuzes82ipA1JIDvCcqESinuR1mN5BlYUNJ+WjOlUK0+Xuxae2xifxAM
+PX59P3nMHxBi4kKGS2t6GfeDzYV7PZ83jMHw/xIqV17D/1eGDg+8IMPnWp/WYEJW
+HU9PaXruuzPWWIQL+JZXCmxLT/JVPvfQFhmB5CPhacUtFNl9dhwO7lydWvsacyfd
+XBCg0l8cuPOMqkk5Rq1LcW8hvqr7huX9lviywuADX3YPZBKpNPJfdqYep6gnuLLF
+ck+e6g0/MhgwwTwsY5LufNJNqPAPHlZA1zP4c0tb9M7nXlr874gnNkJDdlN4DtA4
+hbzJRnME/RKOwjNwd0c1q3Oe59DvQnGHCkas+XphxLsDQdI4Dku21y7B/vu/Zfmd
+UswQSEsy5xwZKy8wcLgs
+=oOWW
+-----END PGP SIGNATURE-----

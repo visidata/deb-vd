@@ -1,0 +1,8 @@
+Origin: devotees
+Label: devotees Github
+Suite: unstable
+Codename: sid
+Architectures: amd64
+Components: main
+Description: Debian visidata packages
+SignWith: 77044392
