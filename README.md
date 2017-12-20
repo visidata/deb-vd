@@ -4,7 +4,7 @@ deb-vd is a [Debian repository](https://wiki.debian.org/DebianRepository) for mo
 
 If you are looking for installation instructions for VisiData on MacOS/X or using pip3, they are available [here](https://wiki.debian.org/DebianRepository).
 
-## First time installation
+## Install
 
 Grab our public key
 ```
