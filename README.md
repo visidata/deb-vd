@@ -31,4 +31,4 @@ sudo apt-get install visidata
 ```
 
 ## About
-VisiData was created and is being developed by [Saul Pwanson](saul.pw) &lt;saul@visidata.org&gt;. The homebrew package and tap is maintained by [Anja Kefala](https://github.com/anjakefala) &lt;anja@visidata.org&gt;.
+VisiData was created and is being developed by [Saul Pwanson](saul.pw) &lt;saul@visidata.org&gt;. The debian package and repository is being maintained by [Anja Kefala](https://github.com/anjakefala) &lt;anja@visidata.org&gt;.
