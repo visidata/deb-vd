@@ -3,8 +3,8 @@ Hash: SHA256
 
 Archive: unstable
 Component: main
-Origin: devotees
-Label: devotees Github
+Origin: saulpw
+Label: saulpw Github
 Architecture: amd64
 Description: Debian visidata packages
 -----BEGIN PGP SIGNATURE-----
