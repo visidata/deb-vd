@@ -1,19 +1,20 @@
 Package: visidata
-Version: 0.99-1
+Version: 1.0-1
 Architecture: all
 Maintainer: Anja Boskovic <anja@visidata.org>
-Installed-Size: 299
-Depends: python3-dateutil, python3-lxml, python3-openpyxl, python3-requests, python3-xlrd, python3:any (>= 3.4~)
+Installed-Size: 298
+Depends: python3-dateutil, python3-openpyxl, python3-requests, python3-xlrd, python3:any (>= 3.4~)
 Multi-Arch: foreign
 Homepage: https://pypi.python.org/pypi/visidata
-Priority: extra
+Priority: optional
 Section: devel
-Filename: pool/main/v/visidata/visidata_0.99-1_all.deb
-Size: 70946
-SHA256: d19e037faeb53f029c85e6c099bf55ba17383d814592cd01ade00af6ac0129fc
-SHA1: f5f2f08e4586a2ffdd8c8907952f161cf836babf
-MD5sum: 754222528176b7eb58abb8fee3cdbd6e
+Filename: pool/main/v/visidata/visidata_1.0-1_all.deb
+Size: 70728
+SHA256: b5bf1b5719839ffca403099f36d3b6035f360765d62a96aa5d68ae6374327a40
+SHA1: 666a99b572a0a885dd3a4d079d28d43ceb8694bb
+MD5sum: 97cc56fa6fbbf724ec8f79f0de737361
 Description: rapidly explore columnar data in the terminal
- VisiData is a terminal utility for exploring, arranging
- and analysing tabular data.
+ VisiData is a multipurpose terminal utility for exploring, cleaning, restructuring
+ and analysing tabular data. Current supported sources are tsv, csv, fixed-width text,
+ json, sqlite, http, html, xls, and xlsx (excel).
 
