@@ -6,3 +6,12 @@ Architectures: amd64
 Components: main
 Description: Debian visidata packages
 SignWith: 77044392
+
+Origin: saulpw
+Label: saulpw Github
+Suite: stable
+Codename: jessie
+Architectures: amd64
+Components: main
+Description: Debian visidata packages
+SignWith: 77044392

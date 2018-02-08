@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: saulpw
+Label: saulpw Github
+Suite: stable
+Codename: jessie
+Date: Thu, 08 Feb 2018 01:42:49 UTC
+Architectures: amd64
+Components: main
+Description: Debian visidata packages
+MD5Sum:
+ eb080fd5621c0b44543e61a7d097ffe0 826 main/binary-amd64/Packages
+ af8f83c2dcfd6345bca4ecf358f43217 559 main/binary-amd64/Packages.gz
+ 3f29fbff48b34f90ef1a99e5e60bd40c 126 main/binary-amd64/Release
+SHA1:
+ 8860ba815099a8138cb983f01b35baf13c456f30 826 main/binary-amd64/Packages
+ 8d9da205c5c37dd8ec0f0a8fcc5a9b4d7371c7e4 559 main/binary-amd64/Packages.gz
+ dee1b01a337528eb2bf3fc8363ee3d3665b8db79 126 main/binary-amd64/Release
+SHA256:
+ 50f9c785e3c46f4ece2e5ac5c99df45b8294237305a59f8e1613f7b30e8ed10a 826 main/binary-amd64/Packages
+ 095608ee7c0b89c97300ae92e88a0db6deb7a93572a1066bd10c7c9e47e86a63 559 main/binary-amd64/Packages.gz
+ d43bb3d40625bc672f46e1ae3ca8293ac00e2920a1eb952d63307f85d9c23d59 126 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJae6sbAAoJEByrmtmXXgr6KOAP/RYofPY7U5ggAeP+kIGE6bTD
+mNRG5lCNvqJankXfRTGbYnWowjxZaSdmHQeaLphn32fKBmPYIcuu/BUEH41CVHp7
+3BDuyVnrJYTeHzMQ0AYJOOaQiRP4E//pkAV0iWuN6Qf74Ky14bhRg66+DbztbAu9
+85kNS4GXFa95xRkGKv50ymphE/GxebqJs97FLr56ZQHvGSlMapSBaFLKR6XLUpTZ
+V1EED58PScAcD45Mrc5RJmOVDRsQPoKea9ZfAxmymSwKME068uUSJ++CRc3evhqR
+9iVzOFXd/4vlvgfBNlAoZYK2tCOjNV3rkGLf49SOCA7ucwL2qaKPvSdrKKQKD7Xl
+W/1kODbXGDkdBVS4kaC69ok2nPWar+wxQ/XI9lnO20H/csweNpzQvKWtA1JpFuMS
+oD+eRUY3Ie6VNQQnw1SL1cPsp7iDUiRNfSYD6YgNcBpEHsvppyUV9F/4fQJOtesq
+J/PgSsEF99Cm+2C8dQTidsRL6cl8XJoFa9Ma/0WUdMIXZdlnRt3kHVp1Jb/hfjez
+qsf5M4/NisWj8Xt/tJxCwifk610PJVY6+zupfg2hJO4V3ri7PYqMZrrGAyR/VZss
+4n7wPL38WGNlCA/c8JsoY2XUn+SXsgpA1UnyBh806Ern0qAd+U+H4gucwe5mLV31
+PObT8u6M4/xv2DjAPkYw
+=apw9
+-----END PGP SIGNATURE-----

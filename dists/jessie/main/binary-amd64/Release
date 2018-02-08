@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: saulpw
+Label: saulpw Github
+Architecture: amd64
+Description: Debian visidata packages
