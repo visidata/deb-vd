@@ -2,9 +2,11 @@
 
 deb-vd is a [Debian repository](https://wiki.debian.org/DebianRepository) for more convenient installation and updating of [VisiData](https://github.com/saulpw/visidata) on Linux distributions.
 
-This repository contains VisiData v1.0.
+This repository contains VisiData v1.2.
 
 If you are looking for installation instructions for VisiData on MacOS/X or using pip3, they are available [here](https://github.com/saulpw/visidata/blob/stable/README.md#installation).
+
+Currently, VisiData v1.0 is in Debian unstable's [main repository](https://launchpad.net/ubuntu/+source/visidata) and is projected to be released on buster. Instructions for installing from Debian are [here](https://github.com/saulpw/visidata#install-via-apt).
 
 ## Install
 
