@@ -5,7 +5,7 @@ Codename: sid
 Architectures: amd64
 Components: main
 Description: Debian visidata packages
-SignWith: 77044392
+SignWith: CC811C5BBE23B6D715D247EE06C997C9869C8F01
 
 Origin: saulpw
 Label: saulpw Github
@@ -14,4 +14,4 @@ Codename: jessie
 Architectures: amd64
 Components: main
 Description: Debian visidata packages
-SignWith: 77044392
+SignWith: CC811C5BBE23B6D715D247EE06C997C9869C8F01
