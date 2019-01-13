@@ -1,5 +1,7 @@
 # VisiData Debian Repository
 
+## NOTE The devotees.gpg.key in this repository has been updated! Please add the new key.
+
 deb-vd is a [Debian repository](https://wiki.debian.org/DebianRepository) for more convenient installation and updating of [VisiData](https://github.com/saulpw/visidata) on Linux distributions.
 
 This repository contains VisiData v1.5.2.
