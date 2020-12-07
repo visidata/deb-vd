@@ -5,33 +5,33 @@ Origin: saulpw
 Label: saulpw Github
 Suite: unstable
 Codename: sid
-Date: Mon, 19 Oct 2020 03:41:57 UTC
+Date: Mon, 07 Dec 2020 06:16:31 UTC
 Architectures: amd64
 Components: main
 Description: Debian visidata packages
 MD5Sum:
- d9c8731d7c95511b0eddafbf8223de55 798 main/binary-amd64/Packages
- 2b4d610e336aa359ac186963358262bf 565 main/binary-amd64/Packages.gz
+ cb9609a74f96c124b4e64adcd724dbce 784 main/binary-amd64/Packages
+ 8f3817f0e5db0c2b153b05df698e34ec 555 main/binary-amd64/Packages.gz
  cb8710948204526c418cce574a232146 132 main/binary-amd64/Release
 SHA1:
- a7bd2ddba714ead4bcfe5272ca109cc406273a8b 798 main/binary-amd64/Packages
- ec1c6865c84bea4b29473187d7b76a8569151ed7 565 main/binary-amd64/Packages.gz
+ 449127f2b1bfcc84c93cb56a82a1b6fae090208a 784 main/binary-amd64/Packages
+ 3a7b0d6f9f944117e48a301ecf27ba1c497d2081 555 main/binary-amd64/Packages.gz
  461502d2a3e5d75f275b06c8141b27d3ff784927 132 main/binary-amd64/Release
 SHA256:
- 20632f553ab444c7c5e67b419b7354f7f0dbfd963a2c10cd2e4edf76b75b0969 798 main/binary-amd64/Packages
- cfb08e959697e65e08efbf6def1c46a828a28616f04f60aa9cd502350dc984c7 565 main/binary-amd64/Packages.gz
+ 5e9b4911d0d77ff2c21f331cbcfcf735078d8a1dcb07ae9ef2ac5943dd2a4f23 784 main/binary-amd64/Packages
+ f329b545716ec4b9b5fc16bf339f501e20e7162a9fe9234757ce26f52a952701 555 main/binary-amd64/Packages.gz
  1592b12fec6a0047efddcbad5c0f267d8f76857c2d19247efc199331cc7383d5 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEzIEcW74jttcV0kfuBsmXyYacjwEFAl+NCwUACgkQBsmXyYac
-jwGLKQv/XJAcuob46weskNodYJ3QIGzK4wA1oyn5D+nQ+Ib7AKymX9gOPtkSPcnR
-hgI39VD3XQ+nBkpfxoGz6r9HQ5TVd/O0ka86CZ2SU86jMqbf0S/zuB7kEkD93+5r
-4Uykdxv6jWTBgURXgkE3P7S+qbgMbWO+BBFolooMLRZQdaeb+B+ZYEcST0i/TWm3
-sJudK+xS9n+5q5Yx6vxINrNQ7UiYBp2vKxSZ2+yg1ASoY03FiarKpXSoZKzMQBW2
-R1eZp+6+xmzyzvzzOZuFO/JjCDkz6oiNFndHxzsOthFv3q22vfKx7qpWwms5FtRA
-U083Z/fOaUOC1PwzInZEY2Q1+SzHxtEgAgY9mkJUqAazuz1EbNyreKgiKblabQmq
-kpQRjQi/12RCnNaVSaDOQHwgjupHcfhMWmSqkSpHydX517Dp6+OOsmLmOEU9uyOZ
-0+UvDOG4zmjC9cqidM8X+V6X4B03BjcG3DZyUTx+75XLHs07js7bLYrOLQnaeYn0
-JKCs/ZAI
-=KUdM
+iQGzBAEBCAAdFiEEzIEcW74jttcV0kfuBsmXyYacjwEFAl/NyL8ACgkQBsmXyYac
+jwHTJAv9GlyZIB51suyJ+R9VEGYkEPL2UclSSmFtx3tGYfcVn6fHmZWHNbm/zP5X
+iokQMVegaW1J3++bSkiLKgrhQyiILcsZDBqqCUulrLHskunVmQVdCjNDEK2hpB8Q
+LH4x7q5faITWR2yZ5hTmxOwtd7iy9x3RhXFsEsSXUGOiLjA+g5krfi9hIu2cMi6V
+4PLnVRoV44p3sJJOXtpPq8+HeTynIrCmKxSyIQOrnG7WgwbnM7JlWB3xSOXf93ho
+5yqNIKWgt8wM5K8Vy7YX5yK94q0o/cyWEuXPLOA1beYXwJjWPFrECTLa5rXD+Pid
+HkEhIeEHSexYYCrwuHOurHKdAhXFIZamtqWaC+0u8PhZouJJfs221PY1e2mBrn4T
+OKzYsqTcGqgtGxri+TPRIqhHx+9jBH5Dt0QotpeeZJ2ugGGLDL0meKkq8VKPvQ5j
+XQ93xt56gmJoRXGUXJStPZtpMRAWH5rKzcTTrIBrYQ0tvQ//Zd86k6xPEUh1Mrhh
+pOban8ma
+=tdj9
 -----END PGP SIGNATURE-----
