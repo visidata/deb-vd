@@ -1,18 +1,18 @@
 Package: visidata
-Version: 2.1.1-1
+Version: 2.2.1-1
 Architecture: all
 Maintainer: Anja Boskovic <anja.kefala@gmail.com>
-Installed-Size: 716
+Installed-Size: 784
 Depends: python3-dateutil, python3:any
 Multi-Arch: foreign
-Homepage: https://pypi.python.org/pypi/visidata
+Homepage: https://visidata.org
 Priority: optional
 Section: devel
-Filename: pool/main/v/visidata/visidata_2.1.1-1_all.deb
-Size: 153860
-SHA256: 0388d8881c4b12f7d6abeeac597a5aaa5c3073eff175c118fe31f7e23dd16ac7
-SHA1: 0e9c79ee485ac33c9ae032b1dafc678c24c9f7f2
-MD5sum: ad644872eec4409802dbf3279c71f6c3
+Filename: pool/main/v/visidata/visidata_2.2.1-1_all.deb
+Size: 156160
+SHA256: 4e2ad1eaac0ac78622f0977c620af8e5af7c778c8faf588555cc6bca9c8caf77
+SHA1: 8cbe54ef6586a199307ff74555be1e27de1f1cf4
+MD5sum: 20027c709d5244646c3bb119397cbcca
 Description: rapidly explore columnar data in the terminal
  VisiData is a multipurpose terminal utility for exploring, cleaning,
  restructuring and analysing tabular data. Current supported sources are
