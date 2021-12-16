@@ -2,19 +2,19 @@ Origin: saulpw
 Label: saulpw Github
 Suite: unstable
 Codename: sid
-Date: Wed, 29 Sep 2021 06:24:06 UTC
+Date: Thu, 16 Dec 2021 04:21:33 UTC
 Architectures: amd64
 Components: main
 Description: Debian visidata packages
 MD5Sum:
- 2f5525af09bbdeaa4e1500d38d3e721b 771 main/binary-amd64/Packages
- fd38fb29804aa7e9dceece1e23ef41fb 549 main/binary-amd64/Packages.gz
+ b0452066f4b2a4a0bffe28177b17424c 767 main/binary-amd64/Packages
+ c77486bf7cf950f5b55d73f2e868c8f2 546 main/binary-amd64/Packages.gz
  cb8710948204526c418cce574a232146 132 main/binary-amd64/Release
 SHA1:
- 7d6c104ebfbf8b35253f0094111292a3969cad9b 771 main/binary-amd64/Packages
- 4907f92f679f15197df17c9d2f3ef78970f7e747 549 main/binary-amd64/Packages.gz
+ ed7f49aeba321a0a2e92e919278c0bd000c29e94 767 main/binary-amd64/Packages
+ f36261cc84286c71c631db7a8320511eb8d49ec2 546 main/binary-amd64/Packages.gz
  461502d2a3e5d75f275b06c8141b27d3ff784927 132 main/binary-amd64/Release
 SHA256:
- c4c22fc29a0e2e1adff51c6ab4dd22edfca17d62d891dcd82d6df1c09f06c092 771 main/binary-amd64/Packages
- df9968a77a3fd4cfec03b9e8e62b10282bf52990f1215c0cdfd5bae888fc1ff3 549 main/binary-amd64/Packages.gz
+ 44321f1dfba234690e4bbf30db648f1f961b23dc7c8b0a3fc8cc70c552f96a0b 767 main/binary-amd64/Packages
+ 9cf1b0f15db6f9149ca7551930764730822aadcf968d5da64b6330237b3a85f4 546 main/binary-amd64/Packages.gz
  1592b12fec6a0047efddcbad5c0f267d8f76857c2d19247efc199331cc7383d5 132 main/binary-amd64/Release
